@@ -7,3 +7,6 @@ module d_ff(q,d,clk,rst);
       else q <= 'd0;
   end
 endmodule
+
+module tb;
+endmodule
